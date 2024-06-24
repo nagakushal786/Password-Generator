@@ -29,9 +29,9 @@ To get a local copy up and running, follow these simple steps:
     cd Password-Generator
     ```
 
-3. Open the `index.html` file in your preferred web browser:
+3. Open the `index.html` file in your preferred web browser. Use this command when using Git Bash:
     ```sh
-    open index.html
+    start index.html
     ```
 
 ## Usage
